@@ -2,14 +2,14 @@
 
 couchilla is a bundler for packing design documents for CouchDB.
 
-[Report a bug or suggest a feature](https://github.com/onur1/couchilla/issues)
+[Report a bug or suggest a feature](https://github.com/tetsuo/couchilla/issues)
 
 ## Install
 
 Install `couchilla` globally with:
 
 ```
-npm install @onur1/couchilla -g
+npm install @tetsuo/couchilla -g
 ```
 
 ## Usage
